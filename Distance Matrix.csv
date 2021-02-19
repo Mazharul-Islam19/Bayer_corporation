@@ -1,0 +1,7 @@
+Unit: miles,Chicago,Green Bay,Omaha,Springfield,Columbus,Detroit
+Chicago,,210,470,510,320,280
+Green Bay,210,,570,720,530,510
+Omaha,470,570,,630,780,730
+Springfield,510,720,630,,630,750
+Columbus,320,530,780,630,,210
+Detroit,280,510,730,750,210,
